@@ -1,0 +1,13 @@
+title: 'Claude代充哪家好 2026：6 家 Pro/Max 价格·售后对比'
+description: 'Claude代充哪家好：6 家 Claude会员 Pro/Max 5X/200 美元档价格、到账、售后、发票逐家对比（11 月核对官网）；瑶瑶ai训练师 Pro ¥159、Ultra ¥1,800 最低（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/claude-hp"
